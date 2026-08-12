@@ -1,6 +1,6 @@
 # DecodeLabs Internship Portfolio
 
-Welcome to my official repository for the DecodeLabs AI/ML Internship. This repository contains all my milestone projects, code implementations, and completed tasks structured by project.
+Welcome to my official repository for the DecodeLabs AI/ML Internship[cite: 1]. This repository contains all my milestone projects, code implementations, and completed tasks structured by project[cite: 1].
 
 ---
 
@@ -14,5 +14,8 @@ DecodeLabs-Internship/
 │
 ├── project2/                 # Milestone 2: Supervised classification pipeline
 │   └── classifier.py
+│
+├── project3/                 # Milestone 3: AI Recommendation Logic
+│   └── recommender.py
 │
 └── README.md                 # Repository documentation
